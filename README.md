@@ -17,6 +17,6 @@
 ### Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c#,androidstudio,figma,bash,github,js,html,css,mongodb,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,c#,java,react,r,mysql,androidstudio,figma,bash,github,js,html,css,mongodb,vscode" />
   </a>
 </p>
