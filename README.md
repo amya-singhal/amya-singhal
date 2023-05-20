@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+< img src= "https://github.com/amya-singhal/amya-singhal/blob/main/Capture.PNG">
 <!--
 **amya-singhal/amya-singhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
