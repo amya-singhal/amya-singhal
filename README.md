@@ -8,13 +8,15 @@
 </div>
 
 ### About me:
-
-- 🔭 I’m currently working with George Weston Limited for the Summer
+- 🎓 Computer Science student at [University of Waterloo](https://cs.uwaterloo.ca/about)
+- 🔭 I’m currently working with George Weston Limited
 - 🌱 I’m currently learning NLP and Generative AI
+- 💬 Ask me about Python, C#, Computer Vision, Machine Learning
+- 😋 I enjoy rock climbing, dancing, working out, and painting
 
 ### Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c#,java,swift,r,androidstudio,figma,bash,github,js,html,css,mongodb,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,c#,r,androidstudio,figma,bash,github,js,html,css,mongodb,vscode" />
   </a>
 </p>
