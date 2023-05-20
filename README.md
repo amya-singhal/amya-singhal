@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi, I am Amya 👋
 
 
 <div align = "center">
   <img align="center" src= "https://github.com/amya-singhal/amya-singhal/blob/main/Capture.PNG" />
-  <img src=https://github.com/VinayakBector2002/VinayakBector2002/blob/master/Hnet-image%20(3).gif width="667px">
  </div>
  <div align = "center"> 
 </div>
