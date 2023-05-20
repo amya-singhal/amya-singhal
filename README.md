@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning NLP and Generative AI
 - 💬 Ask me about Python, C#, Computer Vision, Machine Learning
 - 😋 I enjoy rock climbing, dancing, working out, and painting
+- ⚡ Follow my leetcode journey on my github
 
 ### Languages and Tools:
 <p align="center">
