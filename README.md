@@ -9,7 +9,7 @@
 
 ### About me:
 - 🎓 Computer Science student at [University of Waterloo](https://cs.uwaterloo.ca/about)
-- 🔭 I’m currently working with George Weston Limited
+- 🔭 I’m currently working at Cohere
 - 🌱 I’m currently learning NLP and Generative AI
 - 💬 Ask me about Python, C#, Computer Vision, Machine Learning
 - 😋 I enjoy rock climbing, dancing, working out, and painting
